@@ -36,7 +36,7 @@ const x = _({
       return {
         items: [
           {
-            title: `Postdoctoral Researcher: Mirja Kuhlencord`,
+            title: `Postdoctoral Researcher<span class="name">Mirja Kuhlencord</span>`,
             url: new URL("/assets/Mirja.d154d921.jpg", self.location).href,
             link: "/Mirja",
             content: `Mirja graduated from Medical School in Germany in November 2021 (Halle University). Previously, she completed a B.Sc. degree in Psychology at Leipzig University in Germany. During her undergraduate studies, she worked as a research assistant with Prof. Jonas Obleser at the Max Planck Institute for Human Cognitive and Brain Sciences (Auditory Cognition group), examining the effects of feedback on perception and behaviour. During her medical studies, she developed a deep interest in neurological and psychiatric diseases and their pathophysiology, diagnostics and treatment. A short internship at Prof. Bogdan Draganski's Research in Neuroimaging (LREN) lab in Lausanne (Switzerland) gave her insight into neuroimaging data analysis and motivated her to pursue research in this field after her medical studies. 
